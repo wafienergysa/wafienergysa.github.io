@@ -1394,8 +1394,30 @@ body {
 .jq-selectbox:hover .jq-selectbox__trigger-arrow {
   border-top-color: #71c71b;
 }
+.cid-ro5Btssa01 {
+  background-image: url("../../../assets/images/wafi-englishprofile-final-3-4-1024x792.jpg");
+}
+.cid-ro5Btssa01 h1 {
+  color: #616161;
+}
+.cid-ro5Btssa01 h2,
+.cid-ro5Btssa01 h3,
+.cid-ro5Btssa01 p {
+  color: #767676;
+}
+.cid-ro5Btssa01 .mbr-section-subtitle {
+  font-style: italic;
+}
+.cid-ro5Btssa01 H3 {
+  text-align: center;
+  color: #5b686b;
+}
+.cid-ro5Btssa01 H1 {
+  text-align: center;
+  color: #5b686b;
+}
 .cid-qTkA127IK8 {
-  background-image: url("../../../assets/images/wafi-englishprofile-final-3-6-600x396.jpg");
+  background-image: url("../../../assets/images/untitled-4-1080x608.jpg");
 }
 .cid-qTkA127IK8 .mbr-text,
 .cid-qTkA127IK8 .mbr-section-btn {
@@ -1563,7 +1585,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #71c71b;
 }
 .cid-qTkzRZLJNu button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1780,7 +1802,7 @@ body {
 }
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: #cccccc !important;
 }
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
